@@ -1,0 +1,225 @@
+{
+  "products": [
+    {
+      "name": "pr1",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1
+      },
+      "creationDate": "2020-05-15T06:32:13.198+03:00[Europe/Moscow]",
+      "price": 0.1,
+      "partNumber": "pn1",
+      "manufactureCost": 300,
+      "unitOfMeasure": "GRAMS",
+      "manufacturer": {
+        "name": "ORG1",
+        "annualTurnover": 1000,
+        "organizationType": "PUBLIC"
+      }
+    },
+    {
+      "name": "pr2",
+      "coordinates": {
+        "x": 2.0,
+        "y": 2
+      },
+      "creationDate": "2020-05-15T06:32:13.199+03:00[Europe/Moscow]",
+      "price": 1.0,
+      "partNumber": "pn2",
+      "manufactureCost": 300,
+      "unitOfMeasure": "METERS",
+      "manufacturer": {
+        "name": "ORG2",
+        "annualTurnover": 2000,
+        "organizationType": "TRUST"
+      }
+    },
+    {
+      "name": "pr3",
+      "coordinates": {
+        "x": 3.0,
+        "y": 3
+      },
+      "creationDate": "2020-05-15T06:32:13.199+03:00[Europe/Moscow]",
+      "price": 3.0,
+      "partNumber": "pn3",
+      "manufactureCost": 300,
+      "unitOfMeasure": "MILLIGRAMS",
+      "manufacturer": {
+        "name": "ORG3",
+        "annualTurnover": 3000,
+        "organizationType": "GOVERNMENT"
+      }
+    },
+    {
+      "name": "1",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1
+      },
+      "creationDate": "2020-05-15T06:32:13.199+03:00[Europe/Moscow]",
+      "price": 0.001,
+      "partNumber": "1",
+      "manufactureCost": 1,
+      "unitOfMeasure": "METERS",
+      "manufacturer": {
+        "name": "1",
+        "annualTurnover": 1,
+        "organizationType": "PUBLIC"
+      }
+    },
+    {
+      "name": "lol",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1
+      },
+      "creationDate": "2020-05-15T06:32:13.199+03:00[Europe/Moscow]",
+      "price": 1.0,
+      "partNumber": "1",
+      "manufactureCost": 1,
+      "unitOfMeasure": "GRAMS",
+      "manufacturer": {
+        "name": "1",
+        "annualTurnover": 1,
+        "organizationType": "TRUST"
+      }
+    },
+    {
+      "name": "lol",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1
+      },
+      "creationDate": "2020-05-15T06:32:13.200+03:00[Europe/Moscow]",
+      "price": 1.0,
+      "partNumber": "1",
+      "manufactureCost": 1,
+      "unitOfMeasure": "GRAMS",
+      "manufacturer": {
+        "name": "1",
+        "annualTurnover": 1,
+        "organizationType": "TRUST"
+      }
+    },
+    {
+      "name": "lol",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1
+      },
+      "creationDate": "2020-05-15T06:32:13.200+03:00[Europe/Moscow]",
+      "price": 1.0,
+      "partNumber": "1",
+      "manufactureCost": 1,
+      "unitOfMeasure": "GRAMS",
+      "manufacturer": {
+        "name": "1",
+        "annualTurnover": 1,
+        "organizationType": "TRUST"
+      }
+    },
+    {
+      "name": "lol",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1
+      },
+      "creationDate": "2020-05-15T06:32:13.200+03:00[Europe/Moscow]",
+      "price": 1.0,
+      "partNumber": "1",
+      "manufactureCost": 1,
+      "unitOfMeasure": "GRAMS",
+      "manufacturer": {
+        "name": "1",
+        "annualTurnover": 1,
+        "organizationType": "TRUST"
+      }
+    },
+    {
+      "name": "lol",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1
+      },
+      "creationDate": "2020-05-15T06:32:13.200+03:00[Europe/Moscow]",
+      "price": 1.0,
+      "partNumber": "1",
+      "manufactureCost": 1,
+      "unitOfMeasure": "GRAMS",
+      "manufacturer": {
+        "name": "1",
+        "annualTurnover": 1,
+        "organizationType": "TRUST"
+      }
+    },
+    {
+      "name": "lol",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1
+      },
+      "creationDate": "2020-05-15T06:32:13.200+03:00[Europe/Moscow]",
+      "price": 1.0,
+      "partNumber": "1",
+      "manufactureCost": 1,
+      "unitOfMeasure": "GRAMS",
+      "manufacturer": {
+        "name": "1",
+        "annualTurnover": 1,
+        "organizationType": "TRUST"
+      }
+    },
+    {
+      "name": "lol",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1
+      },
+      "creationDate": "2020-05-15T06:32:13.200+03:00[Europe/Moscow]",
+      "price": 1.0,
+      "partNumber": "1",
+      "manufactureCost": 1,
+      "unitOfMeasure": "GRAMS",
+      "manufacturer": {
+        "name": "1",
+        "annualTurnover": 1,
+        "organizationType": "TRUST"
+      }
+    },
+    {
+      "name": "lol",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1
+      },
+      "creationDate": "2020-05-15T06:32:13.201+03:00[Europe/Moscow]",
+      "price": 1.0,
+      "partNumber": "1",
+      "manufactureCost": 1,
+      "unitOfMeasure": "GRAMS",
+      "manufacturer": {
+        "name": "1",
+        "annualTurnover": 1,
+        "organizationType": "TRUST"
+      }
+    },
+    {
+      "name": "lol",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1
+      },
+      "creationDate": "2020-05-15T06:32:13.201+03:00[Europe/Moscow]",
+      "price": 1.0,
+      "partNumber": "1",
+      "manufactureCost": 1,
+      "unitOfMeasure": "GRAMS",
+      "manufacturer": {
+        "name": "1",
+        "annualTurnover": 1,
+        "organizationType": "TRUST"
+      }
+    }
+  ]
+}

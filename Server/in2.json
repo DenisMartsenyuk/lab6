@@ -1,0 +1,72 @@
+{
+  "products": [
+    {
+      "name": "lol",
+      "coordinates": {
+        "x": 1.0,
+        "y": 998
+      },
+      "creationDate": "2020-05-15T09:16:45.905+03:00[Europe/Moscow]",
+      "price": 0.1,
+      "partNumber": "1",
+      "manufactureCost": 1,
+      "unitOfMeasure": "GRAMS",
+      "manufacturer": {
+        "name": "1",
+        "annualTurnover": 2,
+        "organizationType": "PUBLIC"
+      }
+    },
+    {
+      "name": "dg",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1
+      },
+      "creationDate": "2020-05-15T10:40:28.590+03:00[Europe/Moscow]",
+      "price": 1.0,
+      "partNumber": "1",
+      "manufactureCost": 1,
+      "unitOfMeasure": "GRAMS",
+      "manufacturer": {
+        "name": "1",
+        "annualTurnover": 1,
+        "organizationType": "PUBLIC"
+      }
+    },
+    {
+      "name": "ba",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1
+      },
+      "creationDate": "2020-05-15T10:41:27.341+03:00[Europe/Moscow]",
+      "price": 1.0,
+      "partNumber": "1",
+      "manufactureCost": 1,
+      "unitOfMeasure": "GRAMS",
+      "manufacturer": {
+        "name": "1",
+        "annualTurnover": 1,
+        "organizationType": "PUBLIC"
+      }
+    },
+    {
+      "name": "1",
+      "coordinates": {
+        "x": 1.0,
+        "y": 1
+      },
+      "creationDate": "2020-05-15T11:06:43.054+03:00[Europe/Moscow]",
+      "price": 1.0,
+      "partNumber": "1",
+      "manufactureCost": 1,
+      "unitOfMeasure": "METERS",
+      "manufacturer": {
+        "name": "1",
+        "annualTurnover": 1,
+        "organizationType": "PUBLIC"
+      }
+    }
+  ]
+}
